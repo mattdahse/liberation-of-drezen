@@ -1,27 +1,46 @@
 # The Liberation of Drezen — Campaign Archive
 
-A searchable, browsable archive of our Pathfinder: *Wrath of the Righteous* campaign —
-*A Chronicle of the Crusade Against the Worldwound*.
+The **source of truth** for our Pathfinder: *Wrath of the Righteous* campaign —
+*A Chronicle of the Crusade Against the Worldwound* — and the searchable site built from it.
 
-**Live site:** enabled via GitHub Pages (see the repository's environment/deployment).
+**Live site:** https://mattdahse.github.io/liberation-of-drezen/
 
-## What's here
+## Repository layout
 
-- **33 chapters** across two books:
-  - *Book I — The Road to Drezen* (14 chapters): the fall of Kenabres, the underground escape, Neathholm, the Black Wing Library, and the storming of the Gray Garrison.
-  - *Book II — The Liberation of Drezen* (19 chapters): the siege of the citadel and the long crusade beyond, out to Takira's Redoubt.
-- **Full-text search** across every chapter (client-side, no server).
-- A **reader** for each chapter, each linked to its Fathom session recording.
-- A **cast** reference (in-game names).
+```
+source/                         ← the canonical chronicle (edit these)
+  book-1-the-road-to-drezen.md      Book I  (14 chapters): Kenabres → the gates of Drezen
+  book-2-the-liberation-of-drezen.md Book II (19 chapters): the siege and the crusade beyond
+bible/                          ← authoring reference (voice, cast, lore)
+  00-style-and-prompt-guide.md
+  02-dramatis-personae.md
+  03-lore-and-locations.md
+build.ps1                       ← compiles source/*.md → data.js
+index.html                      ← the reader app (search, chapters, cast)
+data.js                         ← BUILD OUTPUT — do not hand-edit
+.nojekyll
+```
 
-## How it's built
+Each chapter in `source/` carries its session recording inline as
+`<!-- fathom: <recording-id> -->` (the build turns it into the "▶ recording" link).
 
-A fully static site — just two files:
+## Adding a session
 
-- `index.html` — the app (search, reader, cast); all CSS and JS inlined.
-- `data.js` — the chapter corpus, compiled from the master Chronicle and the reconstructed Book I.
+1. Draft the new chapter into the right `source/book-*.md` file, following `bible/00-style-and-prompt-guide.md`. Include the `<!-- fathom: … -->` line under the subtitle.
+2. Rebuild the search index:
+   ```powershell
+   powershell -ExecutionPolicy Bypass -File build.ps1
+   ```
+3. Commit and push — GitHub Pages redeploys automatically (~1 minute):
+   ```powershell
+   git commit -am "Add Chapter XX — <title>"
+   git push
+   ```
 
-No build step and no dependencies. To run locally, put both files in a folder and open `index.html`
-in any browser (it works from `file://`).
+The `wotr-chronicle` skill automates steps 1–3 from a raw session transcript.
+
+## Running locally
+
+Put `index.html` and `data.js` in a folder and open `index.html` in any browser — it runs entirely client-side (works from `file://`). No server or dependencies.
 
 *Compiled from session transcripts (Fathom) and the emailed chapter recaps.*

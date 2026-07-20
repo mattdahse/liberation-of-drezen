@@ -32,7 +32,7 @@ chapter order. The last chapter of a finished book is flagged `<!-- epilogue -->
 Read from the repo before drafting:
 - `bible/00-style-and-prompt-guide.md` — voice, tone, roster, markdown conventions. Source of truth for voice; read every time.
 - `bible/02-dramatis-personae.md` — names/spellings/continuity for any characters involved.
-- `bible/03-lore-and-locations.md` — when named artifacts (Radiance, Solomar, Terendelev's scales, Sword of Valor) or established places appear.
+- `bible/03-lore-and-locations.md` — when named artifacts (Radiance, Solemn Hour, Battle Hymn, Terendelev's scales, Sword of Valor) or established places appear.
 - The **end** of `source/book-3-demons-heresy.md` (the ongoing book) — read the last chapter to match the current voice and decide continuity. Note its highest chapter number.
 
 ### 2. Determine chapter scope

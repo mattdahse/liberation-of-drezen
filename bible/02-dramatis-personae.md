@@ -1,20 +1,20 @@
 # Campaign Bible — Dramatis Personae
 
-*The Liberation of Drezen*
+*The Fifth Crusade*
 
 Authoritative roster for names, spellings, and continuity. Curated by Matt; the "Book I additions" section below is seeded from the reconstruction and should be pruned/edited as needed.
 
 ## The Party (Rabiah's Redeemers)
 
 - **Rabiah** *(Steve)* — human sorcerer of the Destined bloodline, red-haired and fastidious; marked with the Riftwardens' Seeker's Spiral. Destroyed a corrupted wardstone at the Gray Garrison. Namesake of the Redeemers.
-- **Varic Sarian** *(Marco)* — half-elf priest of Sarenrae with fighter training; bearer of the bane longsword *Solomar*. Touched by both the Dawnflower and Iomedae after the wardstone's destruction.
+- **Varic Sarian** *(Marco)* — half-elf priest of Sarenrae who took up fighter training; carried the longsword *Solemn Hour* (Irabeth's recovered blade, pressed upon the company and passed to him by Lupenor) and now wields *Battle Hymn*, won from Scorizscar's hoard. Touched by both the Dawnflower and Iomedae after the wardstone's destruction.
 - **Lupenor Celest** *(Fenris)* — elven slayer, devotee of Desna; analytical scout and archer. Sabotaged the enemy catapults at the siege; later founds Lupenor's Market in Drezen.
 - **Harlock Greyforge** *(Burt)* — half-orc sworn to Iomedae. Begins as a devout fighter; recovers and awakens the sentient longsword *Radiance* and becomes a paladin. Founds Iomedae's Preservers.
 - **Chirrik** — mongrelman scout of Neathholm; a keen-eyed archer met on the road in Book I who follows and eventually joins the company.
 
 ## Allies & Drezen Citizens
 
-- **Irabeth Tirabade** — half-orc paladin of the Eagle Watch; commander at the Defender's Heart in Kenabres, later Governor of liberated Drezen. Her sword: Solemn Hour.
+- **Irabeth Tirabade** — half-orc paladin of the Eagle Watch; commander at the Defender's Heart in Kenabres, later Governor of liberated Drezen. Her ancestral blade *Solemn Hour*, recovered at the Gray Garrison, she pressed upon the company rather than keep it for herself.
 - **Anevia Tirabade** — Irabeth's wife; rescued from the rubble of Kenabres, a steadfast agent of the crusade.
 - **Aravashnial** — blind Riftwarden wizard drawn from the wreckage of Kenabres; a scholar of the demons and their plots.
 - **Sosiel Vaenic** — cleric who raised the call to build the new temple of Sarenrae in Drezen.

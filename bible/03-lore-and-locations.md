@@ -1,15 +1,15 @@
 # Campaign Bible — Lore, Locations & Artifacts
 
-*The Liberation of Drezen*
+*The Fifth Crusade*
 
 ## Artifacts & Relics
 
 - **Radiance** — an intelligent longsword of Iomedae, recovered dimmed from the cult in Book I and awakened to Harlock; effectively an NPC. Its warmth, cooling, or silence tracks Harlock's inner state.
-- **Solomar** — Varic's bane longsword.
 - **Scales of Terendelev** — four silver scales of the fallen dragon Terendelev, each granting a distinct gift (cloud-walking, a veiling false face, a ward, and one that renders a blade good-aligned). Carried by the four heroes since the caverns of Kenabres.
 - **Soul Shear** — Staunton Vhane's glaive; slew Lupenor before his resurrection.
 - **The Sword of Valor** — the crusade banner reclaimed beneath Drezen; cleanses evil and can summon an angel of Iomedae.
-- **Solemn Hour** — Irabeth's ancestral longsword.
+- **Solemn Hour** — Irabeth Tirabade's ancestral longsword, recovered at the Gray Garrison. Irabeth pressed it upon the company rather than keep it; Lupenor bore it for a time, then passed it to Varic when he took up martial training. (Garbled as "Solomar" in early transcripts.)
+- **Battle Hymn** — a cold-iron longsword forged to bite the fiends of the Abyss, won from Scorizscar's hoard on the Gray Road; Varic's current blade.
 - **Staunton Vhane's Journals** — recovered enemy intelligence on the Corruption Forge and the demonic hierarchy.
 
 ## Enemy Intelligence (from Vhane's journals)

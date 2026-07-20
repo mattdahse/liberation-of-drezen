@@ -12,7 +12,7 @@ This is the authoring source of truth for the chronicle's **voice**. Read it bef
 
 ### The Company (player → character)
 
-- **Marco → Varic Sarian** — half-elf priest of Sarenrae with a soldier's training; bearer of the bane longsword *Solomar*. Hierophant-path mythic.
+- **Marco → Varic Sarian** — half-elf priest of Sarenrae who took up a soldier's training; carried the longsword *Solemn Hour* (passed to him by Lupenor), and after the Scorizscar hunt wields *Battle Hymn*. Hierophant-path mythic.
 - **Burt → Harlock Greyforge** — half-orc sworn to Iomedae. *Begins Book I as a devout fighter*; recovers and awakens the sentient longsword *Radiance* and grows into a paladin and Champion-path mythic hero. Founds Iomedae's Preservers.
 - **Fenris → Lupenor Celest** — elven slayer, devotee of Desna; scout and archer. Trickster-path mythic. Founds Lupenor's Market in Drezen.
 - **Steve → Rabiah** — human sorcerer of the Destined bloodline, marked with the Riftwardens' Seeker's Spiral; the party's battle-mage. Archmage-path mythic.

@@ -12,10 +12,8 @@ markdown, after which the site is rebuilt and pushed.
 
 ## Inputs
 
-- A session transcript pasted into the chat (Discord/Foundry/notes), **or** just "do the recap"
-  (figure out the next chapter from the chronicle), sometimes with a chapter number/direction.
-- The session's **Fathom recording id** — ask Matt, or find it via the Fathom tools
-  (`list_meetings` / `search_meetings` for "Pathfinder", newest first) and confirm the date.
+- **A session transcript** pasted into the chat (Discord/Foundry/notes), **or Matt's description of what happened** from memory (for a session with no transcript), **or** just "do the recap" (figure out the next chapter from the chronicle). Sometimes with a chapter number/direction.
+- The session's **Fathom recording id** — ask Matt, or find it via the Fathom tools (`list_meetings` / `search_meetings` for "Pathfinder", newest first) and confirm the date. **Some sessions were never recorded** — if no recording exists, omit the `<!-- fathom: … -->` line entirely (the site just shows no recording link for that chapter).
 
 ## Workflow
 
@@ -81,6 +79,16 @@ only if Matt asks; he curates those.
 - One-paragraph summary: chapter number, session(s) covered, and that it's live (link the site).
 - The "Suggested bible updates" list.
 - Any open questions (uncertain rules calls, unclear intentions, name spellings worth confirming).
+
+## Backfilling a missing or out-of-order session
+
+Not every chapter is the "next" one — sometimes a past session was skipped or never recorded and needs to be slotted in after the fact (Matt will usually describe it from memory).
+
+- **Place it by its real date.** A pre-siege session belongs in `source/book-1-the-road-to-drezen.md`; a later one in Book II. **Insert** the new chapter *between the two chapters that bracket its date*, not at the end. (E.g. an unrecorded 15 March 2025 session goes in Book I, between the 28 February chapter and the 28 March "mythic dreams" chapter.)
+- **Ordering is automatic.** The build numbers chapters by their position in the file, so inserting one renumbers everything after it correctly — never hand-edit chapter numbers. Just also add the chapter to that file's **"Index of Chapters"** list in the right slot.
+- **No recording?** Omit the `<!-- fathom: … -->` line; the chapter simply has no recording link.
+- **Source is the description + the bible.** With no transcript there is nothing to verify against, so match the surrounding era's canon (e.g. a March 2025 Book I session is *pre-mythic* — the party gains mythic power only at the Gray Garrison — and Harlock's fighter/paladin and Radiance status follow the date) and flag anything you had to invent or guess for Matt to confirm.
+- Then rebuild, commit, and push exactly as in step 5.
 
 ## Conventions & edge cases
 

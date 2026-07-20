@@ -210,7 +210,7 @@ function viewCast(){
 function viewSecrets(){
   setTab('secrets');
   if(!secrets.length){ app.innerHTML = '<div class="hint">No secrets have been recorded yet.</div>'; window.scrollTo(0,0); return; }
-  var html = '<div class="hint">Lore and learning the company uncovered along the way — recovered journals, enemy writings, and hard-won truths, pieced together from what they found on the road and set down beside the chronicle.</div>';
+  var html = '<div class="hint">The record beside the chronicle — knowledge the company wrested from the enemy, and the accounts of those who flocked to their banners as Drezen rose again.</div>';
   secrets.forEach(function(s){
     html += '<div class="entry"><span class="ttl"><span class="t" onclick="openSecret(\''+s.id+'\')">'+esc(s.title)+'</span>'
       + (s.subtitle?('<div class="snip">'+inline(s.subtitle)+'</div>'):'')

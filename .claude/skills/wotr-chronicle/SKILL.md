@@ -60,6 +60,8 @@ Scan the recap for **new persons of importance** and update the `CAST` array in 
 
 Entry shape: `['Name','one-line role']`. **CRITICAL:** these are single-quoted JS strings — every apostrophe *inside* a string must be a **curly ’** (U+2019), never a straight `'`, or the page breaks silently. Curly quotes “ ” and em-dashes — are fine. The Cast is served straight from `index.html` (no rebuild needed for Cast-only edits), but a bad quote won't show up in the raw-HTML checks — re-read the edited entries to confirm.
 
+**Portraits.** A cast member with a canonical portrait shows a thumbnail on the Cast gallery (and a click-to-enlarge lightbox). The likeness lives in `characters/` and is wired via the `PORTRAITS` map in `index.html` (`'<Cast Name>': 'characters/<file>.png'`, keyed by the exact cast name). To give a character a portrait, see **Illustrations** below and follow `characters/CANON.md`. A cast entry with no portrait simply renders as text — portraits are optional.
+
 ## Workflow — 3. Secrets (Fantasy Grounds Player Notes)
 
 The players' in-world writing lives in the local FG campaign: `%APPDATA%\SmiteWorks\Fantasy Grounds\campaigns\Wrath of the Righteous - AZ\db.xml`, under the `<notes>` node. After a session, **check for new notes** (journals, letters, lore, dreams, ballads, follower accounts) not already represented in `secrets/`, and harvest anything worth keeping.
@@ -72,6 +74,19 @@ Extract: read db.xml with `[IO.File]::ReadAllText`, pull the `<notes>…</notes>
 2. Commit & push (outward-facing publish — proceed, it's the skill's purpose, and tell Matt it's live):
    `git -C C:\Users\alast\drezen-archive commit -am "Add <title>"` then `git -C C:\Users\alast\drezen-archive push`. Pages redeploys in ~1 min; verify with `Invoke-WebRequest` against the live URL.
 3. **Leave a Gmail draft** to the players linking the latest session — use the Gmail `create_draft` tool. **Draft only; never send** (Matt reviews and sends). Recipients (from the sent recaps): `madcat451@gmail.com` (Marco/Varic), `tstory@rocketmail.com` (Steve/Rabiah), `fenrisdahse@gmail.com` (Fenris/Lupenor), `burticvs@hotmail.com` (Burt/Harlock) — plus `dk2player@gmail.com` if he's a current player (confirm with Matt or the calendar invite). Keep it short: subject like `Pathfinder recap — <Chapter Title> (<date>)`, a one- or two-line teaser, and the site link. To deep-link the new chapter, use `https://mattdahse.github.io/the-fifth-crusade/#/read/ch<order>` where `<order>` is the new chapter's global position (= total chapter count after the build); otherwise link the site root and name the chapter.
+
+## Illustrations & the house art style
+
+The archive is illustrated. Two files govern all of it:
+- **`bible/04-visual-style-guide.md`** — the one house look for every generated image (derived from the definitive exemplar `images/arueshalae.png`): cinematic painterly fantasy realism, single cold light source, muted earthy palette with one luminous accent, desolate Worldwound settings. Read it before generating any art.
+- **`characters/CANON.md`** — the canonical portrait registry: one authoritative likeness per named character, in `characters/<kebab-name>.png`, with the "likeness anchors" that must never drift.
+
+**The iron rule when generating art (via the `chatgpt-image-gen` skill or any image tool):**
+1. Render in the house style from `04-visual-style-guide.md` (use its prompt scaffold).
+2. If the image depicts a character listed in `CANON.md`, **supply that character's canonical portrait as a reference image** so they stay recognizable — never regenerate a known character from text alone. Multiple canon characters in one scene → provide every available reference.
+3. A genuinely new character is rendered fresh in the house style; once their look is settled, add them to the registry (save `characters/<name>.png`, add a row to `CANON.md`, and — if they're in the Cast — a `PORTRAITS` entry in `index.html`).
+
+**Inline images in a chapter or secret.** Both readers render a standalone markdown image as a captioned figure. Put the file in `images/` (scene art) and, on its own line/paragraph, write `![Caption text](images/<file>.png)`. The alt text is the caption (may hold *italics*/**bold**); an empty caption gives a bare image. `build.ps1` keeps the caption in the search index. A chapter-opening illustration goes between the subtitle line and the first `###`.
 
 ## Present results
 

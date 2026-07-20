@@ -155,6 +155,34 @@ The campaign to retake **Drezen** began with meticulous attack planning to breac
 
 *— Summarized from the campaign bible —*
 
+## **The False Goddess**
+
+*September 13, 2025 session — through the sally port into Citadel Drezen: the murder hall, the weeping berserker, and a demon wearing Iomedae's face*
+
+### **The Murder Hall**
+
+With the outer defenses secured, the company turned to the sally port itself. A ***chime of opening*** sang the stone doors wide, and beyond them opened a corridor built for killing — twenty feet to its ceiling, and every foot of it a trap. **Lupenor** named it before the first blow fell: the murder hall. She was proved right when **Harlock**, clearing what looked like a heap of fallen rubble across a side passage, found the rubble was an illusion and the floor beneath it was not there at all. He dropped onto a bed of spikes, and in the same breath arrows came sleeting down from slits high on the walls, loosed by archers safe in their galleries.
+
+They fought clear of the killing floor and into a wider, rubble-strewn chamber — and into worse. A **vrock** waited there, and the gallery archers abandoned their slits to join it. The demon threw up ***mirror images*** of itself and loosed its spores upon them, and for a while the fight hung in doubt. It was **Chirrik** who turned it — the mongrel scout, two ranks below the rest and with none of their mythic fire, who nonetheless put shaft after shaft into the right targets and was owed more than one killing stroke before the end. **Harlock** struck the blow that finished the **vrock**, and the murder hall fell quiet.
+
+### **The Weeping Blade**
+
+The next chamber was painted in blood. In it stood a Kellid woman among the ruin of her own war-band — heads heaped to one side, bodies to the other, and she in a pool of it with her sword still dripping and tears on her face even as she stood over the slain. Her name, they would learn, was **Jestak**. She did not explain herself. She drank off a potion, spoke a few urgent words in Kellid that no one in the company could follow, and then threw back her head and screamed herself into a rage.
+
+She came straight for **Lupenor**, and her first blow nearly ended the slayer where she stood. What followed was brutal and close — **Jestak**'s fury lent her a strength and a hide that turned aside all but the hardest strikes, and her reflexes punished every opening. **Lupenor** was beaten to the very edge of death before the company could rally, and again it was **Chirrik**'s bow, underleveled and undaunted, that helped drag the fight back. In the end **Jestak** fell — and with her fell any hope of learning why she had turned her blade on her own war-band. There was no one left to ask.
+
+### **The Idol at the Altar**
+
+The hardest test waited in the Inheritor's chapel. They came into it and found **Iomedae** herself standing at the altar in a nimbus of light, four devout crusaders arrayed about her. It was a lie. The figure was a succubus wearing the Inheritor's shape, and the crusaders were her charmed and dominated pets, sworn to die in her defense. When the blades came out she slipped sideways into the ethereal and hung there untouchable, working her puppets from beyond reach.
+
+So the company faced the cruelty the demon had built for them: to win through, they would have to cut down innocent men whose only sin was to have fallen under her spell. **Rabiah** flung ***glitterdust*** where she guessed the succubus hid — and guessed wrong; and it would have availed nothing even so, for a thing gone ethereal is not merely unseen. Then the demon reached into **Chirrik**'s mind and turned her, and the scout who had saved them twice over now emptied her quiver at **Rabiah** while the sorcerer strained and failed to break the hold. For a few sick heartbeats the company watched their own used as a weapon against them.
+
+It broke when the false goddess made herself solid to strike, and **Harlock** — sick to his soul at a demon defiling a hall of **Iomedae** — reached her at last. His fury took her head from her shoulders, and her death freed **Chirrik** in an instant. Of the four enslaved crusaders only one could be spared: **Varic** had beaten that one senseless rather than kill him, and so he lived. His name was **Cecil**, and he would go back to the army hollow and broken, to be tended and, in time, unmade of what the demon had done to him.
+
+When it was done, **Harlock** and **Varic** knelt and cleansed the chapel with prayer and holy water, giving back what sanctity they could to the fouled altar. Then **Lupenor** found a hidden door at the chamber's southern end, and **Rabiah**'s map named two rooms yet unentered beyond it. Spent and bloodied, the company weighed rest against the dark ahead.
+
+*— Session of September 13, 2025 —*
+
 ## **The Citadel's Gauntlet**
 
 <!-- fathom: 423214214 -->
@@ -212,6 +240,38 @@ The heroes healed **Barrid** to consciousness and set to work binding their pris
 Suddenly — the door to the next room burst open.
 
 *— Session of October 2025 —*
+
+## **The Fall of Staunton Vhane**
+
+*November 7, 2025 session — the planning room of Citadel Drezen, and the first death among the company*
+
+### **The Door Bursts Open**
+
+The door the company had braced for burst inward, and the enemy came through it all at once: half-fiend minotaurs with their long reaching blades, a **babau** slick with abyssal grease, and a great wasp bearing its rider. The party was still bunched from the last fight, and the press was upon them before they could spread. **Varic** answered with a ***Holy Smite*** that seared the evil outsiders and struck several blind; **Lupenor**'s arrows cut a charging minotaur down mid-stride; **Rabiah** laid ***Haste*** across them all and bought the company the speed it needed.
+
+Then **Staunton Vhane** himself strode into the room — the fallen dwarf, the citadel's traitor-commander, wrapped in mythic power and bearing the unholy glaive ***Soul Shear***. His eye went at once to **Lupenor**, for she carried ***Solemn Hour***, and he knew the blade. He fell upon her, and his strokes were more than flesh could bear. The slayer went down and did not rise. It was the first death the company had suffered in all the long war — and for a moment the battle became a wake.
+
+### **A Critical Blow**
+
+**Harlock** met the murderer head-on. He called his smite against the dwarf and drove ***Radiance*** home with everything the blade and the man had left in them — a single telling stroke that bit deep where it counted. The rest closed around him, and between them they brought **Staunton Vhane** down at last. His fall counted as a mythic trial passed, and the company felt the next tier of their power draw nearer even in that grim hour.
+
+### **The Quicksilver Mercy**
+
+They took the citadel-master's chambers apart and found their reward: a journal in dwarven runes, magic worth the carrying — and, past price, a measure of ***Philosopher's Stone*** quicksilver. Mixed into a healing draught it becomes an ***Oil of Life***, and an Oil of Life is a true resurrection sealed in a vial. **Varic** poured it out over **Lupenor**, and she came back whole — no grave-chill on her, no part of her left behind. The first death in the company's story was also the first undoing of death.
+
+They gathered up ***Soul Shear*** as well — the intelligent, evil thing that could call **babau** out of the empty air — and after no little argument wrapped it tight and shut it away in a bag of holding until they could settle its end.
+
+### **The Citadel Claimed**
+
+With **Staunton** dead and the first level swept, the company sent word for the crusader army to move into the citadel in strength. Quarters were assigned, guard set upon the locked door to the basements, and the two prisoners — the wizard **Barrid** and **Staunton**'s own brother, the dwarf **Joran Vhane** — locked apart under watch. **Chirrik** was set to guard the prisoners; **Horgus Gwerm** put to the inventory of stores; **Harlock** to the mending of the sally port; and the army billeted through the garrisons the company had bled to clear.
+
+### **Fire and Slag**
+
+Two rites were kept the next morning. They gave **Staunton Vhane** to the fire, and his body burned four hours and loosed swarms of insects as it went — the sign of his abyssal patron **Deskari**, Lord of the Locust Host. His ashes they sealed in a silver coffer blessed with holy water, to be laid to rest properly once a ***Hallow*** could be spoken over the ground.
+
+Then they set to the unmaking of ***Soul Shear***. A forge was made ready and priests prayed the place quiet; **Varic** pinned the weapon in place with a ***Dimensional Anchor*** so it could not flee. The first attempt went awry — the glaive twisted free of **Harlock**'s grip and called up a **babau** on the spot — but the demon was grappled and cut down, and on the second attempt the vice held. The weapon screamed as it melted, and voice after voice cried out of it as the souls bound within were let go at last. The slag they buried under stone-shaped rock, and the citadel, at long last, was theirs.
+
+*— Session of November 7, 2025 —*
 
 ## **Into the Dungeons Beneath Drezen**
 

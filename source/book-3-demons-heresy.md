@@ -1422,6 +1422,8 @@ But the road still ran west, and **Arueshalae** still waited at **Takira's Redou
 
 *19 June 2026 session — Takira's Redoubt, 19th of Neth, 4713 AR*
 
+![Takira's Redoubt rises out of the frozen Marchlands — and Lupenor knows it, stone for stone, from a dream.](images/fort-in-the-dream.png)
+
 ### **The Reckoning of the Red Swarm**
 
 The battlefield had not yet finished smoking when the accounting began. **Chyrrik** — newly returned from the dead, stitched back into the world by a scroll of ***Resurrection*** and the stubbornness of the sorceress her followers had taken to calling *Rabiah the Everliving* — wandered the field retrieving the scattered pieces of her armor while the rest of the company laid out the **Red Swarm**'s arsenal on the cold ground. It was a hunter's kit, assembled for one purpose, and cataloguing it took the better part of the afternoon: **Rabiah** bent over item after item, reading the weave of their enchantments one by one while the light drained out of the gray sky.
@@ -1466,6 +1468,8 @@ And then, as it always seems to with this company, the second half began.
 
 **Lupenor**, wreathed in wasps and despair alike, planted her feet and went to work — a mythic surprise strike slipping past the first **Darachne**'s guard, arrow after arrow driving into it until a final shaft found something vital and the demon fluttered, folded, and thumped to the stones. **Harlock** took the second: ***Radiance*** rising and falling in bright arcs, three hits in a single terrible exchange, the killing blow confirmed twice over. Both summoners were dead — but their wasps remained, and so did the drakes.
 
+![Wreathed in wasps and despair alike, Lupenor plants her feet and drives an arrow into the **Darachne**.](images/the-turning.png)
+
 **Varic**, who had spent the opening rounds trudging up the stairs at the stately pace of a man in full plate, finally climbed into the sky on ***Air Walk***, surveyed a battlefield containing not one single ally in his line of fire, and expressed his feelings about the morning with a ***Fireball***. Swarms withered; drakes and rider alike came out of the blast smoking. **Rabiah** rose back over the wall and cast ***Haste*** across the company — the spell's touch burning the drake-breath sluggishness out of **Chyrrik** and putting extra arrows in every archer's hands. Then **Varic** raised his holy symbol and brought down a ***Holy Smite*** that finished every last wasp in the gatehouse, seared both drakes, and left one **incubus** rider blind and reeling in his saddle. There was, the company agreed, much rejoicing — and a general resolution to let the priest have a turn more often.
 
 ### **The Riders Flee**
@@ -1479,6 +1483,8 @@ And in the instant of that first escape, **Rabiah** felt something she had never
 ### **The Broken Bars**
 
 Silence returned to the gatehouse, broken only by the settling of dead wings. **Varic** spent diamond dust and mythic power on a ***Restoration*** to return what the entropy arrow had stolen from **Harlock**; healing light passed from hand to hand until the company stood whole. That left only the gates. No mechanism survived in the walls to raise the jammed portcullises — so **Harlock**, fortified by **Varic**'s ***Bull's Strength*** and a touch of borrowed destiny, set his leg against the frame, took the ancient iron in both hands, and bent the Redoubt open. One bar snapped clean from the first gate; a second folded aside; and then, because a man should never leave his line of retreat to chance, he walked ten feet on and did the same to the second.
+
+![No mechanism survived in the walls to raise the portcullises, so Harlock set his leg against the frame, took the ancient iron in both hands, and bent the Redoubt open.](images/broken-bars.png)
 
 The way into **Takira's Redoubt** stands open. The company holds nothing yet but the entrance guard room — a gatehouse bought with fire, arrows, and one very sore paladin — and the fort's defenders now know, beyond any doubt, that they are coming. Somewhere deeper in the ruin, past the tower **Lupenor** saw in her dream, an answer is waiting.
 

@@ -104,7 +104,7 @@ The archive is illustrated. Two files govern all of it:
 
 ## Canon spellings (unify FG/transcript drift)
 
-Gray Garrison, Kenabres, Drezen, Aponavisius, Staunton Vhane, Soul Shear, Lupenor Celest, Irabeth Tirabade, Aron Kir, Chirrik, Jaruunicka, Arueshalae, Solemn Hour, Battle Hymn, Khorramzadeh, Radiance. (FG notes often drift: Grey Garrison, Kenabras, Aponavicious, Staunton Vane, Lupinor, Celeste, Irebeth, Aaron Keirr, Chyrrik, Soulshear — fix all of these.)
+Gray Garrison, Kenabres, Drezen, Aponavisius, Staunton Vhane, Soul Shear, Lupenor Celest, Irabeth Tirabade, Aron Kir, Chirrik, Jaruunicka, Arueshalae, Rothin Vald, Elara Dawnstrider, Solemn Hour, Battle Hymn, Khorramzadeh, Radiance. (FG notes and transcripts often drift: Grey Garrison, Kenabras, Aponavicious, Staunton Vane, Lupinor, Celeste, Irebeth, Aaron Keirr, Chyrrik, Soulshear, Rothen (→ Rothin), Alara Dawnstar (→ Elara Dawnstrider) — fix all of these.)
 
 ## Conventions & edge cases
 

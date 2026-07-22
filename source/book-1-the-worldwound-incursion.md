@@ -8,6 +8,8 @@
 
 *October 17, 2024 session — the caverns beneath **Kenabres**, in the first hours after the demon-fall*
 
+![Strangers in the ruin beneath **Kenabres** — a guttering holy symbol, a hand out of the rubble, and a darkness that pressed upon the eyes like a hand.](images/waking-among-the-ruins.png)
+
 When the streets of **Kenabres** broke open and swallowed the festival crowds whole, those who lived woke to a darkness so complete it pressed upon the eyes like a hand. Dust choked the air. Somewhere far off a wounded dog yelped beneath the rubble until, at last, it did not. And in that black ruin, strangers who had never spoken began to call out to one another, and by their voices alone became a company.
 
 ### **Waking Among the Ruins**
@@ -18,6 +20,8 @@ Elsewhere the young sorcerer **Rabiah** kindled a light of her own and clawed aw
 
 ### **The Freeing of Anevia**
 
+![Found rope, a splintered beam, and **Harlock's** back against the stone — no magic and no glory, only four strangers and a rock.](images/the-freeing-of-anevia.png)
+
 The pinned woman was **Anevia**, one leg broken beneath a great block of stone. With a length of found rope and the strength of **Harlock Greyforge** — the stalwart of **Iomedae**, who had come to the festival of **Armasse** to swear his oath and be raised a paladin, and whose vigil the demons had broken before ever the words could leave him — the company rolled the stone aside and drew her free. **Varic** knit the worst of her wounds with the healing grace of his goddess, splinted the shattered limb, and fashioned a crutch. For **Aravashnial** he could do less; the ruin of the elf's eyes lay beyond any power he held, and he could offer only to staunch the bleeding and speak the plain, hard truth. The elf accepted it with the weary dignity of one who had expected no better.
 
 Even here, gathered and grieving, they were not of one mind. **Horgus** dismissed the lot of them as amateurs and set himself to giving orders; **Aravashnial**, who claimed to have fought demons before, was cowed into silence by the noble's scorn.
@@ -25,6 +29,8 @@ Even here, gathered and grieving, they were not of one mind. **Horgus** dismisse
 ### **The Spawn of the Dead Spider**
 
 Scouting the cavern's edge, **Rabiah** found the great upturned corpse of a black widow — and from a wound in its bloated abdomen slithered pale, undulating maggots the size of a man's arm, groping toward her. She loosed a bolt; **Varic** hurled a lance of fire; and **Harlock**, drawing his sword, clove one of the vile things in twain so that its digested filth pooled steaming between the halves. The second was pinned and finished at dagger's point. It was no great battle, but it was their first shed together.
+
+![Four silvered scales of **Terendelev**, cold and lovely in the dark — and **Harlock**, alone among them, looking up.](images/the-scales-of-terendelev.png)
 
 Among the debris they uncovered four silvered scales, each the span of a splayed hand and glowing softly — fragments, it was said, of the fallen dragon **Terendelev**. As each of the four laid hand upon one, its gift made itself known: to one the buoyancy of rolling cloud, to another the veil of a false face, to another a ward against harm. **Harlock**, receiving his, looked up toward the unseen vault of the cave and clutched at a pendant beneath his mail, and said nothing at all.
 
@@ -37,6 +43,8 @@ They ordered their march — **Harlock** at the fore, the blind elf and the crip
 At last the passages opened upon a windowless bunker of worked stone, its facade graven with a great hammer — a shrine of **Torag**, the Father of the Forge, long abandoned in the deep. A giant fly clung to its wall; as they closed on it, **Varic** laid a hand upon **Lupenor** and called down a fleeting favor of his goddess to steady the elf's aim, and the thing was soon crushed beneath **Harlock's** blade. Within the antechamber a basin of water stood still sanctified, holy water yet, though the ground about it had lost its consecration — not defiled, **Varic** judged, only no longer hallowed as it once had been; he filled his vials from it. In the sanctuary beyond, a dust-shrouded dwarf sat facing the altar — and rose with a shriek, plainly some undead thing, hostile at once. It flung itself at the company and was destroyed by a single, telling stroke of **Harlock's** sword.
 
 ### **A Safe Haven Restored**
+
+![The shrine of **Torag** made holy again by their own hands — and **Harlock** playing a low, sad tune into the dark while the others sleep.](images/a-safe-haven-restored.png)
 
 **Horgus**, in his fear, slipped away into the dark, and the company chose — against grievance and good sense both — to go after him. **Varic's** patient words turned the noble back, and together they returned to the shrine. For eight long hours they labored to cleanse and reconsecrate the temple of **Torag**, and when it was done a quiet sense of safety settled over them, a feeling of being watched over by a kindly god. **Varic** spent the last of his gathered grace to heal the wounded. Weary and far from their goal, they knew well how much road still lay between them and the surface.
 

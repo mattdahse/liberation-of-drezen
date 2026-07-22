@@ -21,6 +21,7 @@ Authoritative roster for names, spellings, and continuity. Curated by Matt; the 
 - **Queen Galfrey** — sovereign of Mendev and the Fifth Crusade.
 - **Aldwin Brightblade** — former Kenabres blacksmith who joined Iomedae's Preservers.
 - **Silas Thorne** — meticulous cloth merchant who established trade in liberated Drezen.
+- **Abner Suthi** *(never "Avner")* — sugar merchant and devotee of Abadar; rescued from the vrocks' ritual above the lava lake, slain there by lightning, and raised by Varic in Drezen's temple of Sarenrae. Now trades honey and sweets through Lupenor's Market.
 - **Tam** — a conscript from Nerosyan who deserted to join Rabiah's Redeemers.
 
 ## Persons of Interest

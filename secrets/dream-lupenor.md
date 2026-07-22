@@ -42,6 +42,8 @@ Without speaking, she guides you through impossible passages, teaching you to mo
 
 Before she vanishes into the night, she looks at you with an intensity that burns itself into your memory. "The Songbird of the Spheres sees what others miss. In the spaces between certainties, she offers not order, but beautiful chaos. Perhaps you'll understand someday."
 
+![A stranger whose face she never saw pressed a small silver butterfly into her palm and turned her toward the far fires of a crusader camp. It would be years before **Lupenor** understood what she had been given — or by whom.](images/the-butterfly-pendant.png)
+
 You return to House Celest changed. Your mother notices your newfound stillness, the way you observe before speaking, the way locks seem to open at your approach. Your father recognizes something more—a shadow of something unknowable.
 
 "You've been touched by something beyond the ordinary," he murmurs one evening. "Some call it luck, but luck is just another name for forces we don't yet understand."
@@ -61,6 +63,8 @@ The scene shifts to recent days. The attack on Kenabres. Chaos erupting as demon
 Your skills guide them through the ruined city's shadows, your bow finds targets with precision, locks yield to your touch. For once, you're not merchant or spy or house representative—just a survivor using every tool at your disposal.
 
 Then comes the discovery that shatters your foundation. In the aftermath of a battle, beneath the rubble of what was once a cultist safe house, you find a courier. He wears House Celest's livery, and in his satchel are bills of sale for unholy symbols of Baphomet. Your family's house—stalwart allies of the crusade, or so you believed—implicated in trafficking with the enemy.
+
+![Her own house's livery on a dead courier, and the family seal on a bill of sale for **Baphomet**'s idols. The parchment is the brightest thing in the ruin, and the hardest to look at.](images/the-couriers-satchel.png)
 
 The shock reverberates through you as you continue the fight, every certainty suddenly questionable. Who among your house knew? How deep does the corruption run? Was your mysterious savior years ago somehow connected?
 
@@ -107,6 +111,8 @@ Then stillness.
 You stand in a vast meadow beneath an impossibly star-filled sky. Before you materializes a woman of otherworldly beauty. Her hair shifts like the night sky, her eyes contain the light of distant stars, and butterfly wings unfurl from her back.
 
 Desna, the Song of the Spheres, stands before you.
+
+![In a meadow beneath an impossible sky, the Song of the Spheres asks the merchant's daughter which she will trade in — certainty, or possibility. The silver of her wings is the silver of a butterfly pressed once into a lost child's hand.](images/the-song-of-the-spheres.png)
 
 "My cautious Lupenor," her voice sounds like wind through tall grass. "You who have walked the edge between shadow and light, between watching and acting."
 

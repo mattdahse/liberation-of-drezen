@@ -4,7 +4,7 @@
 
 ### The Call
 
-I have no name worth recording in histories. I am one of dozens who answered Sosiel Vaenic's call to build a temple in Drezen. But I write this account because I believe the small stories matter too — how ordinary people come to follow extraordinary ones.
+I have no name worth recording in histories. I am one of dozens who answered Varic Sarian's call to build the Dawnflower's temple in Drezen. But I write this account because I believe the small stories matter too — how ordinary people come to follow extraordinary ones.
 
 I was an acolyte at the temple of Sarenrae in Egede, content with healing minor injuries and teaching children their prayers, when word came of the miracle at Kenabres. A half-elven priest named Varic Sarian had helped destroy a wardstone before demons could corrupt it, and in that moment had been touched by divine power — not just by the Dawnflower, but by Iomedae herself.
 
@@ -158,7 +158,7 @@ This is what victory looks like — not grand gestures or divine fire, but ordin
 
 I remain nameless in this account because I am everyone who came to Drezen seeking purpose and found community instead. We came to serve various gods and ended up serving each other. We came to build a temple and ended up building a home.
 
-Tomorrow, the temple will be officially consecrated with representatives from Mendev in attendance. They'll see a magnificent structure honoring eight faiths. They'll see Sosiel Vaenic presiding over an unprecedented cooperation between traditionally separate churches.
+Tomorrow, the temple will be officially consecrated with representatives from Mendev in attendance. They'll see a handsome house of the Dawnflower, its alcoves standing open to every faith that helped raise it. They'll see Varic Sarian presiding, and across the way the greater multi-denominational temple rising under Sosiel Vaenic — two houses facing one another across the same square.
 
 But they won't see what really matters — the hundred small moments that brought us here. The refugee who shared her last bread with a stranger. The soldier who taught former enemies to read. The garden that shouldn't exist but does anyway, because someone decided to try.
 
@@ -170,4 +170,4 @@ The Worldwound still presses against our borders. Demons still howl in the night
 
 > "Grant us wisdom to know when to heal and when to cauterize, when to offer redemption and when to stand firm, when to be the gentle dawn and when to be the purifying flame. In balance, we find truth. In truth, we find service. In service, we find purpose." — Varic Sarian's daily prayer
 
-*— Written by an unnamed acolyte of Sarenrae, Temple of United Faith, Drezen, one month after the Liberation —*
+*— Written by an unnamed acolyte of Sarenrae, the Temple of Sarenrae, Drezen, one month after the Liberation —*

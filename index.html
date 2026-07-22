@@ -259,17 +259,34 @@ function setTab(v){ document.querySelectorAll('.tab').forEach(function(t){ t.cla
 var OPEN_BOOKS = {};
 function toggleBook(bk){ OPEN_BOOKS[bk] = !OPEN_BOOKS[bk]; viewContents(true); }
 
+/* "October 17, 2024" -> "Oct 2024"; anything unparseable passes through. */
+function shortDate(d){
+  var m = (d||'').match(/^([A-Za-z]+)\s+\d{1,2},\s*(\d{4})$/);
+  return m ? m[1].slice(0,3)+' '+m[2] : (d||'');
+}
+/* Span of real-world play dates for a book. The final book is still being
+   played, so its range runs to "present" rather than the last session. */
+function bookRange(list, ongoing){
+  var dates = list.map(function(c){ return c.date; }).filter(Boolean);
+  if(!dates.length) return ongoing ? 'to present' : '';
+  var from = shortDate(dates[0]);
+  var to = ongoing ? 'present' : shortDate(dates[dates.length-1]);
+  return from===to ? from : from+' – '+to;
+}
+
 function viewContents(keepScroll){
   setTab('contents');
   var byBook = {};
   chapters.forEach(function(c){ if(!byBook[c.book]) byBook[c.book]=[]; byBook[c.book].push(c); });
   var html='';
-  ['I','II','III'].forEach(function(bk){
-    var list = byBook[bk]; if(!list) return;
+  var order = ['I','II','III'].filter(function(bk){ return byBook[bk]; });
+  var lastBook = order[order.length-1];
+  order.forEach(function(bk){
+    var list = byBook[bk];
     var open = !!OPEN_BOOKS[bk];
     html += '<div class="booktitle'+(open?' open':'')+'" onclick="toggleBook(\''+bk+'\')">'
       + '<span class="caret">▶</span><span class="bt">'+esc(list[0].bookTitle)+'</span>'
-      + '<span class="ct">'+list.length+' chapter'+(list.length!==1?'s':'')+'</span></div>';
+      + '<span class="ct">'+esc(bookRange(list, bk===lastBook))+'</span></div>';
     if(!open) return;
     list.forEach(function(c){
       var lead = c.isEpilogue ? 'Epilogue' : c.num;

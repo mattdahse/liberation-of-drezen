@@ -72,6 +72,8 @@ Their road ran on through winding tunnels, past a harmless nest of spiders that 
 
 As **Rabiah** stepped close to read them, a patch of the ceiling darker than any shadow unfurled like a demon's umbrella and dropped upon her. A second fell upon Harlock. The creatures smothered their prey in inky wings and gnashing beaks, and the young sorcerer — who had strayed too far from Harlock's shadow — was seized and swallowed whole into a writhing leather sack, her cries falling suddenly silent. Blood ran from where the thing gripped her. She hung a hair's breadth from death when Harlock's hammer and Lupenor's arrows brought the beasts down; and as the dark things died, the unnatural gloom that clung to them dissolved, and the cavern brightened.
 
+![The darkmantles fall from the grieving dark, and **Rabiah** is seized — while **Harlock's** hammer, **Lupenor's** bow, and the cold light of **Varic's** holy symbol turn to the fight.](images/the-host-of-sorrowful-stone.png)
+
 Varic reached his fallen friend and, drawing on the mercy of his goddess, called Rabiah back from the very threshold — a ***rebuke of death*** that stole the last breath from oblivion's grasp. Channelled light and a healer's touch did the rest. The blind wizard of their company came groping to her side and laid ***mage armor*** upon her like a benediction. It was a hard lesson, gently given: the frail must not run ahead of the shield.
 
 ### **The Grief in the Carvings**

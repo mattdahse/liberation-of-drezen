@@ -208,6 +208,8 @@ They woke in the borrowed comfort of **Horgus Gwerm**'s manor, upon feather beds
 
 ### **The Child and the First Howl**
 
+![A **howler** comes over the rubble, ribbons of a child's pink dress still strung through its teeth — and its wail takes root in the mind like a splinter that will not be pulled.](images/the-howler-in-the-ruins.png)
+
 The streets were a wound. Buildings lay collapsed into the road as if struck by siege-engines; things with too many legs glistened in the rubble. Beneath a fallen balcony they came upon a small girl in a pink dress, freshly torn open by claws, her blood not yet dry. **Varic** knelt and whispered to Sarenrae for the child's soul, and would not weep where the others could see. Then the morning split with a hideous cry that clawed at the mind itself. A **howler** came over the debris — a thing the size of a tiger, its muzzle strung with ribbons of pink cloth, its back bristling with venomed quills. Its wail took root in **Harlock** and in **Varic**, and would not leave them; a creeping madness settled behind their eyes, a curse that would gnaw hour by hour. They brought the beast down at last with reach and arrow and searing light, and it dissolved into bubbling ruin.
 
 ### **The Sundered Ground**
@@ -219,6 +221,8 @@ Further on, the earth itself had been torn open — a chasm perhaps thirty feet 
 A second **howler** was spied slinking among the ruins, and **Lupenor** stole close in hope of a killing blow unseen — but the beast's ears were too keen, and the fight was joined in the open. It too was slain, though not before its wail deepened the madness already in **Harlock** and **Varic**. Worse followed: the buzzing of giant demonic flies, which spat acid and bore rot in their bites. This was the cruelest trial of the road. **Harlock** was savaged again and again, sickened by the flies' filth atop a fever already in his blood, until only the borrowed vigor of **Aravashnial**'s ***false life*** and an ***aid*** whispered over him by **Varic** kept him upright. When the last fly fell, **Varic** called down Sarenrae's mercy in a wide, healing tide, and the exhausted company staggered the final blocks.
 
 ### **The House of Tirabade**
+
+![Sprawled and defenseless, **Anevia** sees the killer's blow rise over her — and across the room **Lupenor**'s arrow finds the gap in his failing wards.](images/the-assassins-last-arrow.png)
 
 The **Tirabade** residence stood modest and whole — a single-story house, plain as any other on the street, **Anevia**'s own home. They stacked at the door and entered hard. At once a giant fire beetle burst from nowhere, striking at **Anevia** alone; they crushed it, and it vanished. Then another came, and another, each appearing at **Anevia**'s side and hungering for no one else. The company grew certain: something sought her death by name. As she edged toward the door, an unseen voice hissed, *"Your wife will find your corpse in bed, waiting for her,"* and a half-orc assassin, **Vagorg**, shimmered into sight bearing a wicked, obsidian-headed polearm. His blows nearly ended **Anevia** — she fell bleeding to the floor — but **Varic** laid hands upon her and dragged her spirit back from the dark with a ***rebuke death***. Ringed now by all four companions, the killer's warding spells failed him; **Lupenor**'s arrow found the gap, and a dagger across the throat made an end of him.
 

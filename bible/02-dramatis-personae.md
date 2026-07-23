@@ -6,7 +6,7 @@ Authoritative roster for names, spellings, and continuity. Curated by Matt; the 
 
 ## The Party (Rabiah's Redeemers)
 
-- **Rabiah** *(Steve)* — human sorcerer of the Destined bloodline, red-haired and fastidious; marked with the Riftwardens' Seeker's Spiral. Destroyed a corrupted wardstone at the Gray Garrison. Namesake of the Redeemers.
+- **Rabiah** *(Steve)* — human sorcerer of the Destined bloodline, red-haired and fastidious; marked with the Riftwardens' Seeker's Spiral. Sixteen, and a touch vain: she keeps herself and her greens spotless and unwrinkled with habitual prestidigitation, immaculate even where the rest of the company come up filthy. Destroyed a corrupted wardstone at the Gray Garrison. Namesake of the Redeemers.
 - **Varic Sarian** *(Marco)* — half-elf priest of Sarenrae who took up fighter training; carried the longsword *Solemn Hour* (Irabeth's recovered blade, pressed upon the company and passed to him by Lupenor) and now wields *Battle Hymn*, won from Scorizscar's hoard. Touched by both the Dawnflower and Iomedae after the wardstone's destruction. Founded and funded Drezen's temple of Sarenrae, with his cohort Rothin Vald as head priest.
 - **Lupenor Celest** *(Fenris)* — elven slayer, devotee of Desna; analytical scout and archer. Sabotaged the enemy catapults at the siege; later founds Lupenor's Market in Drezen.
 - **Harlock Greyforge** *(Burt)* — half-orc sworn to Iomedae. Begins as a devout fighter; recovers and awakens the sentient longsword *Radiance* and becomes a paladin. Founds Iomedae's Preservers.

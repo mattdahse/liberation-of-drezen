@@ -88,6 +88,8 @@ Beyond a chamber where a broken tower lay toppled on its side, they came upon a 
 
 A steep, piton-studded shaft rose before them, and it cost long, careful minutes to haul their blind and crippled charges up its face with rope and patient hands. At the top, in a cavern where another tower had collapsed, three horned and misshapen figures labored to dig a trapped companion from the rubble. Wary but not cruel, their leader **Lann** offered a bargain: pass in peace, or lend aid. The company chose aid. Straining together beneath a boulder that even Harlock could not shift alone, they freed the pinned wretch — a thing of tentacle and pincer and clustered eyes — and Varic mended what he could of the wretch's shattered leg.
 
+![The company chooses to lend aid: **Harlock** sets his shoulder to the boulder beside the mongrelmen while **Varic** kneels to mend the freed wretch, his healing the one warm light in the dark.](images/the-mongrels-of-the-deep.png)
+
 These were the mongrelmen, the very descendants of the carven host, and Lann pledged to guide his rescuers toward the surface. It fell to Rabiah's careful tongue to soothe the grumbling noble **Horgus**, whose disgust the mongrels bore in weary silence, while Aravashnial's fascination spilled over into thoughtless insult. Where the earth had torn itself into a great new chasm, the company crossed by the grace of a levitation charm, ferrying those who could not climb across the gulf.
 
 ### **The Sign of the Horned Lord**

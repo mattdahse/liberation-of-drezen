@@ -288,9 +288,7 @@ Something in each of them had quietly deepened along that hard road, tempered by
 
 *January 17, 2025 session — the ruin of Kenabres, from Defender's Heart to the fallen Library of the Black Wing*
 
-### **The Oath and the Waking Sword**
-
-Within the crowded halls of **Defender's Heart**, where the last banners of the crusade still flew above barricaded streets choked with refugees, **Harlock Greyforge** knelt and spoke the oath of a paladin of **Iomedae**. He had first tried to surrender the sword he bore — ***Radiance*** — into worthier hands and been refused; so he pledged himself instead to the Inheritor's service. As the words left him, the blade that had lain cold and mute since it came to him woke. Light climbed its length and did not fade. What he had carried as dead steel was, it seemed, only sleeping.
+### **The Errand**
 
 It was **Irabeth** who set the errand. The faithful of **Baphomet** — templars of the Ivory Labyrinth — had wormed their way into the knightly orders that once warded the city, and three of their nests were named: the **Nyserian Manor**, the Tower of Estrad, and Topaz Solutions. But first the company was asked to the **Black Wing Library**, that great repository of everything the crusade knew of demons, to learn whether any within still lived. **Lupenor Celest**, **Rabiah**, and **Varic Sarian** took up the charge beside the new-sworn paladin.
 

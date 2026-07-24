@@ -110,6 +110,64 @@ The chapel fell silent. The clerics had been no small foes, and the company knew
 
 *— Session of May 10, 2025 —*
 
+## **The Nest Beneath the Chapel**
+
+*June 21, 2025 session — the crusade halts its march below the canyon while the four return to finish the defiled chapel they had left half-cleansed, and to cut out the thing gnawing beneath it*
+
+### **The Wound They Had Left**
+
+They had promised to come back, and a wound left festering at one's back does not wait patiently. The crusade halted its march in the lee of the cliff, and once more the four went up alone — **Harlock Greyforge**, **Lupenor Celest**, **Rabiah**, and **Varic Sarian** — to finish what a single night had not allowed. The knotted alarm-rope still hung untouched through its hole in the ceiling; beneath it lay **Ilzek** where they had felled him, the ghoul cleric who had never reached the cord. Nothing had come to move him. The rest of the place did not yet know they had returned.
+
+***Radiance*** knew the chapel for what it had been long before the desolation. *I remember this house,* the blade said in **Harlock**'s mind, warm now where the desecration made it want to go cold. It had been raised, she thought, in the days of **Yaniel** — the wielder she still mourned — and beneath its altar the faithful had once cached healing draughts against the day an army might need them. *We must not leave it to the ghouls. We must give it back.*
+
+### **The Congregation's Remnant**
+
+The main sanctuary was a slaughter-hall still at its worship. Beneath a vaulted ceiling near thirty feet high, its stained glass smashed to narrow teeth and its four angel-statues cracked past knowing, a knot of **ghouls** hunched among the rotted pews at some black devotion — to **Kabriri**, the demon lord of graves and the eating of the dead, whose scratched and slobbering rites had turned the place into a den. The desecration crawled on the skin like a live thing. When the light of **Radiance** fell across them the heads came up, and the chapel became a charnel a second time.
+
+**Lupenor**'s arrows found throat after throat. The ghouls' bite carried the fever that hollows a body into one of their own, and only the elf and the priest stood beyond its reach; the others fought warily and took no lasting hurt. **Harlock** waded into the pews with the blade throwing its own light, and one by one the worshippers were rolled down among the benches. Then **Harlock** knelt at the fouled altar, and where **Radiance** remembered a catch he found one — a locking mechanism, a click, and a metal-lined hollow beneath the stone holding crate upon crate of small healing potions, enough to keep an army on its feet through a hard campaign. They counted the store, set it back where it had lain safe for seventy years, and marked the altar to be reconsecrated with prayer and holy water before they left.
+
+### **The Larder and the Flies**
+
+A side door gave onto a horror of a different colour. Two crusader soldiers hung by their ankles from meat-hooks over a cold hearth, the muscle carved from their thighs, their heads long since gone to some pot; the stoves stood dead, for the things that denned here had been eating the meat raw. When **Radiance**'s glow spilled in, a scatter of fat, purplish flies woke from the carcasses and buzzed sullenly off into the dark. No one yet knew to fear them. **Harlock** cut the two men down and laid them on the floor, that they might at least not hang like game while the fight went on.
+
+### **Nolkeneth**
+
+Beyond the courtyard door waited the master of the house. **Harlock** set one foot across the threshold and a tall, winged demon reared up almost nose to nose with him — **Nolkeneth**, a fiend-priest of the ghoul cult, a knot of lesser **ghouls** shuffling at his back. He answered the intrusion with malice, spitting ***unholy blight*** into the company and swinging a foul aspergillum that flung unholy water reeking of the grave. For a few rounds it was close and ugly work; **Rabiah**'s magic quickened every bow, and the ghouls were peeled away one at a time. When the demon-priest saw his congregation dying around him he lost his nerve, wrapped himself in a hasty ***expeditious retreat***, and ran — which was the last mistake he made. He turned his back on the paladin, and **Radiance** went through his chest between the wings; they snapped stiff, shuddered, and folded, and **Nolkeneth** slid off the blade to the floor. His enchanted aspergillum rolled away across the stone, and a small key to his strongbox fell from his belt.
+
+### **The Statues That Woke**
+
+The courtyard itself was the trap they had not read. Stunted trees and strangled grass choked the open ground, and at its heart a half-broken statue reached broken arms to the sky. The stone was watching them. As the company moved into the open the **gargoyles** came off their perches all at once — the reaching statue among them — and proved a good deal harder than their weathered stone suggested; it was **Lupenor**'s cold-iron and evil-outsider arrows that broke them, a single crit dropping one where a lesser shot would have chipped it. And it was the elf's low-light eyes alone that caught the worse thing: a black shape blotting the stars, circling, dropping — a great winged **nabasu** come down out of the night to feed. It leached the vigour from those it neared and struck to kill, but the four had cleared harder rooms than this, and between arrow and spell and the light of the blade they brought it down among the dead grass. The chapel, at last, was empty of everything but its dead.
+
+### **The Light Given Back**
+
+They did what they had come to do. **Harlock** and **Varic** knelt and cleansed the sanctuary and its altar with prayer and holy water, giving back to a house of **Iomedae** the sanctity the ghouls had gnawed from it. **Radiance** was quiet and warm.
+
+And then **Harlock** did a thing that was not on any map. Word had gone through the crusade of paladins whose faith had guttered on the long, jaundiced road — chief among them a cold and sullen man the others had taken to calling the heartless, **Arlas**, who had stopped bothering to pray. **Harlock** sent for a small squad of them and had them hauled up the cliff-track, and there in the reclaimed chapel he set them to pray beside the restored altar of the Inheritor — to stand in a place demons had held that very morning and now held no longer, and to feel what the crusade was for. They came down the cliff steadier than they went up. It was a small mending, and it would matter later more than anyone there could know.
+
+### **The Piranhas of the Air**
+
+The reckoning waited in camp. The purplish flies had not been flies. Overnight the things had gotten into the stores, and by morning **Horgus Gwerm** — the company's blunt quartermaster, forever tallying what the war cost — was picking infested bags apart over a bowl and crushing the crawlers he sifted out. They knew the breed now: **vescavors**, an abyssal insect that belonged to no honest plane, colony-things ruled by a queen, that swarm and devour metal and skin and bone alike. *Piranhas,* someone said, *but airborne.* **Varic** spent an hour walking the supply tent with ***purify food and drink***, salvaging what stores he could and pressing the crusade to seal its grain in glass and clay and keep the rest covered, for a thing left in the open only invited more. A standing vigil was set on the larder. But cleaning the bags treated the symptom; somewhere in the poisoned canyon a queen was laying, and while she lived the swarms would keep coming. The barred tunnel the chapel had never let them open, and the fouler holes beyond it, led down to her.
+
+### **Into the Green Vapour**
+
+Where the canyon bent, boiling green vapour hung over the ground, and through it the eye could pick out the swarms — dense, moving clots of the things drifting between looser clouds of stragglers. The four picked their way between the swarms toward a vent in the rock and set a rope and grappling hook to it: a tunnel of twenty feet and then twenty more of open air down to the cavern floor, forty feet in all, the walls too resin-slick to climb. **Harlock** went first with his darkvision, a lit smoke-stick dropped ahead of him to foul the swarms' senses, coughing as he came down into a warm, crystalline chamber caked floor and ceiling with dried red mucus — the whole place like standing inside the belly of some vast beast, and full of the high, maddening drone.
+
+### **The Maddening Song**
+
+The swarms found them almost at once, and the swarms were the true peril. Their gibbering clawed at the mind; to stand in it was to risk one's reason, and blade and arrow did next to nothing against a cloud of biting motes — one gnawed at **Lupenor**'s very eyelid while he cursed and swatted. **Varic** answered with ***repel vermin***, throwing a bubble the vescavors could not bear to enter, and the company sheltered in it and moved it with them; ***burning hands*** and alchemist's fire scoured whole swarms where they could be caught massed. When a swarm rolled over the ground between **Harlock** and the others and threatened to swallow the paladin whole, he would not leave a companion stranded in it — he ploughed back through the biting cloud to reach **Lupenor**, taking the gnawing and the gibbering three times over and holding his mind against all of it, and hauled the slayer clear. *He's a paladin now,* someone said, half in wonder. One after another the swarms were burned and repelled until they broke apart into ordinary, purposeless vermin.
+
+### **The Vescavor Queen**
+
+And there, in the deepest chamber, she waited — the **Vescavor Queen**, larger than her brood but no giant, slick and swollen and ringed by the last of her swarms, laying even as they came for her. She spat a reeking acid that did more than burn: any it touched it marked with her scent, so that every swarm she still ruled would turn and hunt that target above all others. She turned it on the company and set her children on the marked. But she was flesh, and flesh takes an arrow. **Lupenor**'s shafts and **Rabiah**'s missiles found her again and again; **Harlock** hammered her against the cavern wall; and when at last **Varic** loosed a channel of holy light that spared his friends and seared only the wicked, the queen shuddered and died. With nothing left to command them, the surviving swarms simply scattered into the dark, so many mindless bugs. Filthy and slick with the queen's ichor, **Rabiah** flicked her wrist and a cantrip left her greens once more immaculate, as though she had never set foot in the place.
+
+### **The Rift That Would Not Close**
+
+The queen had not crawled up from any earthly warren. In the wall of her lair pulsed a mauve glow — a raw abyssal rift, a crack straight into the Abyss through which she had first come, and through which now a **vrock** was trying to force its way into the world. There was no closing such a wound with what they carried; a true sealing wanted greater dispelling magic than any of them could yet command. But a hoarded scroll served for the hour: **Rabiah** loosed ***dimensional anchor*** upon the demon in the crack, and the vrock, barred from stepping across, gave up and wandered off into the abyssal murk. No demon came through. The hole remained, a scar in the stone breathing its faint mauve light — a thing to be truly closed another day, by hands stronger in the divine than theirs.
+
+They burned the queen's body, climbed the rope back into the jaundiced daylight, and turned again toward **Drezen**. The chapel above them stood clean and quiet, a light in the canyon where a darkness had been. The wound at their backs was cut out. And another, deeper one had been noted, and left — for now — for later.
+
+*— Session of June 21, 2025 —*
+
 ## **The Bridge That Would Not Fall**
 
 <!-- fathom: 343836789 -->
